@@ -1,7 +1,5 @@
 <?php
-$servername="localhost";
-$username="root";
-$passwd="";
+
 $dbname="vandanaaneja20";
 $qid=$_POST["qid"];
 $w1=$_POST["wd1"];
